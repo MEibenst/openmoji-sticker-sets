@@ -12,4 +12,4 @@ Work in Progress.
 Priority 2
 
 ## Attribution
-All default emojis designed by [openmoji](https://github.com/hfg-gmuend/openmoji) - the open source emoji and icon project. License: CC BY-SA 4.0
+All emojis designed by [openmoji](https://github.com/hfg-gmuend/openmoji) - the open source emoji and icon project. License: CC BY-SA 4.0
