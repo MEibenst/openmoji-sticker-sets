@@ -7,6 +7,17 @@ Priority 3
 ## Telegram
 Work in Progress.  
 [Activities](https://t.me/addstickers/OpenMojiActivities>Activities)
+animals-nature
+component
+flags
+food-drink
+objects
+people-body
+smileys-emotion
+symbols
+travel-places
+extras-openmoji
+extras-unicode
 
 ## WhatsApp
 Priority 2
