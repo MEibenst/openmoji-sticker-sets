@@ -4,20 +4,19 @@ Stickers for Signal, Telegram and WhatsApp based on the [openmoji](https://githu
 ## Signal
 Priority 3
 
-## Telegram
-Work in Progress.  
+## Telegram  
 [Activities](https://t.me/addstickers/OpenMojiActivities>Activities)  
-animals-nature.  
-component.  
-flags.  
-food-drink.  
-objects.  
-people-body.  
-smileys-emotion.  
-symbols.  
-travel-places.  
-extras-openmoji.  
-extras-unicode.  
+animals-nature  
+component  
+flags  
+food-drink  
+objects  
+people-body  
+smileys-emotion  
+symbols  
+travel-places  
+extras-openmoji  
+extras-unicode  
 
 ## WhatsApp
 Priority 2
