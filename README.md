@@ -5,8 +5,9 @@ Stickers for Signal, Telegram and WhatsApp based on the [openmoji](https://githu
 Priority 3
 
 ## Telegram  
-[Activities](https://t.me/addstickers/OpenMojiActivities>Activities)  
-animals-nature  
+[Activities](https://t.me/addstickers/OpenMojiActivities)  
+[Animals](https://t.me/addstickers/OpenMojiAnimals)  
+nature  
 component  
 flags  
 food-drink  
