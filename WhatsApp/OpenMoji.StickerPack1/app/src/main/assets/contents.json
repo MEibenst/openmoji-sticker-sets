@@ -1,0 +1,200 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "OpenMoji.org - Activities 1",
+      "publisher": "Marco Eibensteiner",
+      "tray_image_file": "tray_Cuppy.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "marco@elitranslations.at",
+      "publisher_website": "https://github.com/MEibenst/openmoji-sticker-sets",
+      "privacy_policy_website": "",
+      "license_agreement_website": "https://github.com/MEibenst/openmoji-sticker-sets",
+      "stickers": [
+        {
+          "image_file": "Joker.webp",
+          "emojis": [
+            "🃏"
+          ]
+        },
+        {
+          "image_file": "FishingPole.webp",
+          "emojis": [
+            "🎣"
+          ]
+        },
+        {
+          "image_file": "ArtistPalette.webp",
+          "emojis": [
+            "🎨"
+          ]
+        },
+        {
+          "image_file": "Ticket.webp",
+          "emojis": [
+            "🎫"
+          ]
+        },
+        {
+          "image_file": "PerformingArts.webp",
+          "emojis": [
+            "🎭"
+          ]
+        },
+        {
+          "image_file": "VideoGame.webp",
+          "emojis": [
+            "🎮"
+          ]
+        },
+        {
+          "image_file": "BullsEye.webp",
+          "emojis": [
+            "🎯"
+          ]
+        },
+        {
+          "image_file": "SlotMachine.webp",
+          "emojis": [
+            "🎰"
+          ]
+        },
+        {
+          "image_file": "Pool8Ball.webp",
+          "emojis": [
+            "🎱"
+          ]
+        },
+        {
+          "image_file": "GameDie.webp",
+          "emojis": [
+            "🎲"
+          ]
+        },
+        {
+          "image_file": "Bowling.webp",
+          "emojis": [
+            "🎳"
+          ]
+        },
+        {
+          "image_file": "FlowerPlayingCards.webp",
+          "emojis": [
+            "🎴"
+          ]
+        },
+        {
+          "image_file": "RunningShirt.webp",
+          "emojis": [
+            "🎽"
+          ]
+        },
+        {
+          "image_file": "Tennis.webp",
+          "emojis": [
+            "🎾"
+          ]
+        },
+        {
+          "image_file": "Skis.webp",
+          "emojis": [
+            "🎿"
+          ]
+        },
+        {
+          "image_file": "Basketball.webp",
+          "emojis": [
+            "🏀"
+          ]
+        },
+        {
+          "image_file": "SportsMedal.webp",
+          "emojis": [
+            "🏅"
+          ]
+        },
+        {
+          "image_file": "Trophy.webp",
+          "emojis": [
+            "🏆"
+          ]
+        },
+        {
+          "image_file": "AmericanFootball.webp",
+          "emojis": [
+            "🏈"
+          ]
+        },
+        {
+          "image_file": "RugbyFootball.webp",
+          "emojis": [
+            "🏉"
+          ]
+        },
+        {
+          "image_file": "CricketGame.webp",
+          "emojis": [
+            "🏏"
+          ]
+        },
+        {
+          "image_file": "Volleyball.webp",
+          "emojis": [
+            "🏐"
+          ]
+        },
+        {
+          "image_file": "FieldHockey.webp",
+          "emojis": [
+            "🏑"
+          ]
+        },
+        {
+          "image_file": "IceHockey.webp",
+          "emojis": [
+            "🏒"
+          ]
+        },
+        {
+          "image_file": "PingPong.webp",
+          "emojis": [
+            "🏓"
+          ]
+        },
+        {
+          "image_file": "Badminton.webp",
+          "emojis": [
+            "🏸"
+          ]
+        },
+        {
+          "image_file": "MahjongRedDragon.webp",
+          "emojis": [
+            "🀄"
+          ]
+        },
+        {
+          "image_file": "FramedPicture.webp",
+          "emojis": [
+            "🖼"
+          ]
+        },
+        {
+          "image_file": "Sled.webp",
+          "emojis": [
+            "🛷"
+          ]
+        },
+        {
+          "image_file": "RedEnvelope.webp",
+          "emojis": [
+            "🧧"
+          ]
+        }
+      ]
+    }
+  ]
+}
