@@ -6,8 +6,8 @@
       "identifier": "1",
       "name": "OpenMoji.org - Activities 1",
       "publisher": "Marco Eibensteiner",
-      "tray_image_file": "tray_Cuppy.png",
-      "image_data_version": "1",
+      "tray_image_file": "Joker_Tray.png",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "marco@elitranslations.at",
       "publisher_website": "https://github.com/MEibenst/openmoji-sticker-sets",
@@ -192,6 +192,358 @@
           "image_file": "RedEnvelope.webp",
           "emojis": [
             "🧧"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "OpenMoji.org - Activities 2",
+      "publisher": "Marco Eibensteiner",
+      "tray_image_file": "Firecracker_Tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "marco@elitranslations.at",
+      "publisher_website": "https://github.com/MEibenst/openmoji-sticker-sets",
+      "privacy_policy_website": "",
+      "license_agreement_website": "https://github.com/MEibenst/openmoji-sticker-sets",
+      "stickers": [
+        {
+          "image_file": "Firecracker.webp",
+          "emojis": [
+            "🧨"
+          ]
+        },
+        {
+          "image_file": "PuzzlePiece.webp",
+          "emojis": [
+            "🧩"
+          ]
+        },
+        {
+          "image_file": "Thread.webp",
+          "emojis": [
+            "🧵"
+          ]
+        },
+        {
+          "image_file": "Yarn.webp",
+          "emojis": [
+            "🧶"
+          ]
+        },
+        {
+          "image_file": "TeddyBear.webp",
+          "emojis": [
+            "🧸"
+          ]
+        },
+        {
+          "image_file": "NazarAmulet.webp",
+          "emojis": [
+            "🧿"
+          ]
+        },
+        {
+          "image_file": "ConfettiBall.webp",
+          "emojis": [
+            "🎊"
+          ]
+        },
+        {
+          "image_file": "TanabataTree.webp",
+          "emojis": [
+            "🎋"
+          ]
+        },
+        {
+          "image_file": "PineDecoration.webp",
+          "emojis": [
+            "🎍"
+          ]
+        },
+        {
+          "image_file": "JapaneseDolls.webp",
+          "emojis": [
+            "🎎"
+          ]
+        },
+        {
+          "image_file": "CarpStreamer.webp",
+          "emojis": [
+            "🎏"
+          ]
+        },
+        {
+          "image_file": "AdmissionTickets.webp",
+          "emojis": [
+            "🎟"
+          ]
+        },
+        {
+          "image_file": "CrystalBall.webp",
+          "emojis": [
+            "🔮"
+          ]
+        },
+        {
+          "image_file": "DivingMask.webp",
+          "emojis": [
+            "🤿"
+          ]
+        },
+        {
+          "image_file": "BoxingGlove.webp",
+          "emojis": [
+            "🥊"
+          ]
+        },
+        {
+          "image_file": "MartialArtsUniform.webp",
+          "emojis": [
+            "🥋"
+          ]
+        },
+        {
+          "image_file": "CurlingStone.webp",
+          "emojis": [
+            "🥌"
+          ]
+        },
+        {
+          "image_file": "Lacrosse.webp",
+          "emojis": [
+            "🥍"
+          ]
+        },
+        {
+          "image_file": "Softball.webp",
+          "emojis": [
+            "🥎"
+          ]
+        },
+        {
+          "image_file": "FlyingDisc.webp",
+          "emojis": [
+            "🥏"
+          ]
+        },
+        {
+          "image_file": "Ribbon.webp",
+          "emojis": [
+            "🎀"
+          ]
+        },
+        {
+          "image_file": "WrappedGift.webp",
+          "emojis": [
+            "🎁"
+          ]
+        },
+        {
+          "image_file": "Jack-o-Lantern.webp",
+          "emojis": [
+            "🎃"
+          ]
+        },
+        {
+          "image_file": "ChristmasTree.webp",
+          "emojis": [
+            "🎄"
+          ]
+        },
+        {
+          "image_file": "Fireworks.webp",
+          "emojis": [
+            "🎆"
+          ]
+        },
+        {
+          "image_file": "Sparkler.webp",
+          "emojis": [
+            "🎇"
+          ]
+        },
+        {
+          "image_file": "Balloon.webp",
+          "emojis": [
+            "🎈"
+          ]
+        },
+        {
+          "image_file": "PartyPopper.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "WindChime.webp",
+          "emojis": [
+            "🎐"
+          ]
+        },
+        {
+          "image_file": "MoonViewingCeremony.webp",
+          "emojis": [
+            "🎑"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "OpenMoji.org - Activities 3",
+      "publisher": "Marco Eibensteiner",
+      "tray_image_file": "MilitaryMedal_Tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "marco@elitranslations.at",
+      "publisher_website": "https://github.com/MEibenst/openmoji-sticker-sets",
+      "privacy_policy_website": "",
+      "license_agreement_website": "https://github.com/MEibenst/openmoji-sticker-sets",
+      "stickers": [
+        {
+          "image_file": "MilitaryMedal.webp",
+          "emojis": [
+            "🎖"
+          ]
+        },
+        {
+          "image_file": "ReminderRibbon.webp",
+          "emojis": [
+            "🎗"
+          ]
+        },
+        {
+          "image_file": "Joystick.webp",
+          "emojis": [
+            "🕹"
+          ]
+        },
+        {
+          "image_file": "GoalNet.webp",
+          "emojis": [
+            "🥅"
+          ]
+        },
+        {
+          "image_file": "FirstPlaceMedal.webp",
+          "emojis": [
+            "🥇"
+          ]
+        },
+        {
+          "image_file": "SecondPlaceMedal.webp",
+          "emojis": [
+            "🥈"
+          ]
+        },
+        {
+          "image_file": "ThirdPlaceMedal.webp",
+          "emojis": [
+            "🥉"
+          ]
+        },
+        {
+          "image_file": "YoYo.webp",
+          "emojis": [
+            "🪀"
+          ]
+        },
+        {
+          "image_file": "Kite.webp",
+          "emojis": [
+            "🪁"
+          ]
+        },
+        {
+          "image_file": "MagicWand.webp",
+          "emojis": [
+            "🧙‍♂️"
+          ]
+        },
+        {
+          "image_file": "Pinata.webp",
+          "emojis": [
+            "🎊"
+          ]
+        },
+        {
+          "image_file": "NestingDolls.webp",
+          "emojis": [
+            "🎎"
+          ]
+        },
+        {
+          "image_file": "SewingNeedle.webp",
+          "emojis": [
+            "🧵"
+          ]
+        },
+        {
+          "image_file": "Knot.webp",
+          "emojis": [
+            "🧶"
+          ]
+        },
+        {
+          "image_file": "SoccerBall.webp",
+          "emojis": [
+            "⚽"
+          ]
+        },
+        {
+          "image_file": "Baseball.webp",
+          "emojis": [
+            "⚾"
+          ]
+        },
+        {
+          "image_file": "FlagInHole.webp",
+          "emojis": [
+            "⛳"
+          ]
+        },
+        {
+          "image_file": "IceSkate.webp",
+          "emojis": [
+            "⛸"
+          ]
+        },
+        {
+          "image_file": "ChessPawn.webp",
+          "emojis": [
+            "♟"
+          ]
+        },
+        {
+          "image_file": "SpadeSuit.webp",
+          "emojis": [
+            "♠"
+          ]
+        },
+        {
+          "image_file": "ClubSuit.webp",
+          "emojis": [
+            "♣"
+          ]
+        },
+        {
+          "image_file": "HeartSuit.webp",
+          "emojis": [
+            "♥"
+          ]
+        },
+        {
+          "image_file": "DiamondSuit.webp",
+          "emojis": [
+            "♦"
+          ]
+        },
+        {
+          "image_file": "Sparkles.webp",
+          "emojis": [
+            "✨"
           ]
         }
       ]

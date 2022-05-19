@@ -10,8 +10,8 @@ android {
         applicationId "at.meibenst.openmoji.stickerpack1"
         minSdkVersion 15
         targetSdkVersion 30
-        versionCode 1
-        versionName "1"
+        versionCode 3
+        versionName "1.2"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.
