@@ -24,3 +24,5 @@ extras-unicode
 
 ## Attribution
 All emojis designed by [openmoji](https://github.com/hfg-gmuend/openmoji) - the open source emoji and icon project. License: CC BY-SA 4.0
+
+WhatsApp Sticker Application is based on the Project [WhatsApp/stickers](https://github.com/WhatsApp/stickers)
