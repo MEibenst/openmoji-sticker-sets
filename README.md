@@ -7,7 +7,7 @@ Priority 3
 ## Telegram  
 [Activities](https://t.me/addstickers/OpenMojiActivities)  
 [Animals](https://t.me/addstickers/OpenMojiAnimals)  
-nature  
+[Nature](https://t.me/addstickers/OpenMojiNature)  
 component  
 flags  
 food-drink  
