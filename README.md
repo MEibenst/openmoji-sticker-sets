@@ -3,7 +3,7 @@ Stickers for Signal, Telegram and WhatsApp based on the [openmoji](https://githu
 
 ## Signal
 Activities  
-Animals-Nature 
+Animals-Nature  
 extras-openmoji  
 extras-unicode  
 flags  
