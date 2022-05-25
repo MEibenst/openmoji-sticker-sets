@@ -1,0 +1,200 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "OpenMoji.org - Animals 1",
+      "publisher": "Marco Eibensteiner",
+      "tray_image_file": "Joker_Tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "marco@elitranslations.at",
+      "publisher_website": "https://github.com/MEibenst/openmoji-sticker-sets",
+      "privacy_policy_website": "",
+      "license_agreement_website": "https://github.com/MEibenst/openmoji-sticker-sets",
+      "stickers": [
+        {
+          "image_file": "Microbe.webp",
+          "emojis": [
+            "🦠"
+          ]
+        },
+        {
+          "image_file": "Badger.webp",
+          "emojis": [
+            "🦡"
+          ]
+        },
+        {
+          "image_file": "Swan.webp",
+          "emojis": [
+            "🦢"
+          ]
+        },
+        {
+          "image_file": "Mammoth.webp",
+          "emojis": [
+            "🐘"
+          ]
+        },
+        {
+          "image_file": "Dodo.webp",
+          "emojis": [
+            "🐦"
+          ]
+        },
+        {
+          "image_file": "Sloth.webp",
+          "emojis": [
+            "🦥"
+          ]
+        },
+        {
+          "image_file": "Otter.webp",
+          "emojis": [
+            "🦦"
+          ]
+        },
+        {
+          "image_file": "Orangutan.webp",
+          "emojis": [
+            "🦧"
+          ]
+        },
+        {
+          "image_file": "Skunk.webp",
+          "emojis": [
+            "🦨"
+          ]
+        },
+        {
+          "image_file": "Flamingo.webp",
+          "emojis": [
+            "🦩"
+          ]
+        },
+        {
+          "image_file": "Beaver.webp",
+          "emojis": [
+            "🐿"
+          ]
+        },
+        {
+          "image_file": "Bison.webp",
+          "emojis": [
+            "🐂"
+          ]
+        },
+        {
+          "image_file": "Seal.webp",
+          "emojis": [
+            "🦈"
+          ]
+        },
+        {
+          "image_file": "GuideDog.webp",
+          "emojis": [
+            "🦮"
+          ]
+        },
+        {
+          "image_file": "Crocodile.webp",
+          "emojis": [
+            "🐊"
+          ]
+        },
+        {
+          "image_file": "Whale.webp",
+          "emojis": [
+            "🐋"
+          ]
+        },
+        {
+          "image_file": "Snail.webp",
+          "emojis": [
+            "🐌"
+          ]
+        },
+        {
+          "image_file": "Snake.webp",
+          "emojis": [
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "Horse.webp",
+          "emojis": [
+            "🐎"
+          ]
+        },
+        {
+          "image_file": "Ram.webp",
+          "emojis": [
+            "🐏"
+          ]
+        },
+        {
+          "image_file": "SpiralShell.webp",
+          "emojis": [
+            "🐚"
+          ]
+        },
+        {
+          "image_file": "Bug.webp",
+          "emojis": [
+            "🐛"
+          ]
+        },
+        {
+          "image_file": "Ant.webp",
+          "emojis": [
+            "🐜"
+          ]
+        },
+        {
+          "image_file": "Honeybee.webp",
+          "emojis": [
+            "🐝"
+          ]
+        },
+        {
+          "image_file": "LadyBeetle.webp",
+          "emojis": [
+            "🐞"
+          ]
+        },
+        {
+          "image_file": "Fish.webp",
+          "emojis": [
+            "🐟"
+          ]
+        },
+        {
+          "image_file": "Camel.webp",
+          "emojis": [
+            "🐪"
+          ]
+        },
+        {
+          "image_file": "TwoHumpCamel.webp",
+          "emojis": [
+            "🐫"
+          ]
+        },
+        {
+          "image_file": "Dolphin.webp",
+          "emojis": [
+            "🐬"
+          ]
+        },
+        {
+          "image_file": "MouseFace.webp",
+          "emojis": [
+            "🐭"
+          ]
+        }
+      ]
+    }
+  ]
+}
