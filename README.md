@@ -18,7 +18,7 @@ travel-places
 [Activities](https://t.me/addstickers/OpenMojiActivities)  
 [Animals](https://t.me/addstickers/OpenMojiAnimals)  
 [Nature](https://t.me/addstickers/OpenMojiNature)  
-extras-openmoji  
+[Extras Openmoji](https://t.me/addstickers/OpenMojiExtras)
 extras-unicode  
 flags  
 food-drink  
