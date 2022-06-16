@@ -1,45 +1,22 @@
 # openmoji-sticker-sets
-Stickers for Signal, Telegram and WhatsApp based on the [openmoji](https://github.com/hfg-gmuend/openmoji) project.  
-
-## Signal
-Activities  
-Animals-Nature  
-extras-openmoji  
-extras-unicode  
-flags  
-food-drink  
-objects  
-people-body  
-smileys-emotion  
-symbols  
-travel-places   
+Stickers for Telegram and WhatsApp based on the [openmoji](https://github.com/hfg-gmuend/openmoji) project.  
 
 ## Telegram  
-[Activities](https://t.me/addstickers/OpenMojiActivities)  
-[Animals](https://t.me/addstickers/OpenMojiAnimals)  
-[Nature](https://t.me/addstickers/OpenMojiNature)  
-[Extras Openmoji](https://t.me/addstickers/OpenMojiExtras)  
-extras-unicode  
-flags  
-food-drink  
-objects  
-people-body  
-smileys-emotion  
-symbols  
-travel-places  
+[Activities](https://t.me/addstickers/OpenMojiActivities) [OpenMoji v13.1]  
+[Animals](https://t.me/addstickers/OpenMojiAnimals) [OpenMoji v13.1]   
+[Nature](https://t.me/addstickers/OpenMojiNature) [OpenMoji v13.1]   
+[Extras Openmoji](https://t.me/addstickers/OpenMojiExtras) [Work in progress]    
+[Flags](https://t.me/addstickers/OpenMojiFlags) [Work in progress]  
+[Food & Drink](https://t.me/addstickers/OpenMojiFood) [Work in progress]    
+[Objects](https://t.me/addstickers/OpenMojiObjects) [Work in progress]  
+[People](https://t.me/addstickers/OpenMojiPeople) [Work in progress]   
+[Smileys](https://t.me/addstickers/OpenMojiSmileys) [Work in progress]  
+[Symbols](https://t.me/addstickers/OpenMojiSymbols) [Work in progress]  
+[Travel](https://t.me/addstickers/OpenMojiTravel) [Work in progress]  
 
 ## WhatsApp
-[Activities](https://github.com/MEibenst/openmoji-sticker-sets/releases/download/v0.1.0-alpha/OpenMoji-StickerPack1.apk)  
-Animals-Nature  
-extras-openmoji  
-extras-unicode  
-flags  
-food-drink  
-objects  
-people-body  
-smileys-emotion  
-symbols  
-travel-places  
+[Activities](https://github.com/MEibenst/openmoji-sticker-sets/releases/download/v0.1.0-alpha/OpenMoji-StickerPack1.apk) [OpenMoji v13.1]   
+There will be more in the future...
 
 ## Attribution
 All emojis designed by [openmoji](https://github.com/hfg-gmuend/openmoji) - the open source emoji and icon project. License: CC BY-SA 4.0
