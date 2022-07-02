@@ -5,7 +5,7 @@ Stickers for Telegram and WhatsApp based on the [openmoji](https://github.com/hf
 [Activities](https://t.me/addstickers/OpenMojiActivities) [OpenMoji v13.1]  
 [Animals](https://t.me/addstickers/OpenMojiAnimals) [OpenMoji v13.1]   
 [Nature](https://t.me/addstickers/OpenMojiNature) [OpenMoji v13.1]   
-[Extras Openmoji 1](https://t.me/addstickers/OpenMojiExtras) [OpenMoji v13.1] [includes: animals-nature, brand, food-drink and emergency]   
+[Extras Openmoji 1](https://t.me/addstickers/OpenMojiExtras) [OpenMoji v13.1] [includes: animals-nature, brand, food-drink and emergency and most of technology]   
 [Flags](https://t.me/addstickers/OpenMojiFlags) [Work in progress]  
 [Food & Drink](https://t.me/addstickers/OpenMojiFood) [Work in progress]    
 [Objects](https://t.me/addstickers/OpenMojiObjects) [Work in progress]  
