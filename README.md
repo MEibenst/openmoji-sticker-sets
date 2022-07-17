@@ -8,7 +8,7 @@ Stickers for Telegram and WhatsApp based on the [openmoji](https://github.com/hf
 [Extras Openmoji 1](https://t.me/addstickers/OpenMojiExtras) ![OpenMoji v13.1](https://img.shields.io/badge/OpenMoji-v13.1-orange)  [includes: animals-nature, brand, food-drink and emergency and most of technology]   
 [Flags 1](https://t.me/addstickers/OpenMojiFlags) ![OpenMoji v13.1](https://img.shields.io/badge/OpenMoji-v13.1-orange)  [includes: all flags until British Indian Ocean Territory :io:]  
 [Food & Drink 1](https://t.me/addstickers/OpenMojiFood) ![OpenMoji v13.1](https://img.shields.io/badge/OpenMoji-v13.1-orange)  [includes: food-vegetable, food-prepared and food-fruit]      
-[Objects](https://t.me/addstickers/OpenMojiObjects) [Work in progress]  
+[Objects 1](https://t.me/addstickers/OpenMojiObjects) ![OpenMoji v14.0](https://img.shields.io/badge/OpenMoji-v14.0-green) [includes: book-paper, clothing, computer, household]   
 [People](https://t.me/addstickers/OpenMojiPeople) [Work in progress]   
 [Smileys](https://t.me/addstickers/OpenMojiSmileys) [Work in progress]  
 [Symbols](https://t.me/addstickers/OpenMojiSymbols) [Work in progress]  
